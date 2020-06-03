@@ -4,6 +4,7 @@ var vm = new Vue({
     data: {
         // variables go in here like this
         example: 0,
+        image_base_url = "faces/face_age/",
     },
     methods: {
         //example method
